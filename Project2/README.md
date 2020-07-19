@@ -1,4 +1,4 @@
-Producer Consumer Assignment
+## Producer Consumer Assignment
 Design
 1. You will implement Java code for the bounded buffer problem discussed in the lecture on threads and observe
 a race condition. The file Factory.java on the course website’s Notes webpage can help with this assignment.
