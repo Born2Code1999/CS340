@@ -1,3 +1,4 @@
+## Simulation Assignment
 The simulation maintains the current time, t, which is initialized to 0 and is incremented after each simulation
 step. Each simulation step then consists of the following actions within the repeat loop:
 repeat
